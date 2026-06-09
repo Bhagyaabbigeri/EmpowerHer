@@ -32,6 +32,30 @@ Built with modern technologies, it integrates real-time emergency alerts via Twi
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <h3>Home & Emergency SOS</h3>
+  <img src="Screenshots/Hero.png" width="800" alt="Home Page">
+  <br>
+  <img src="Screenshots/Emergency-ai.png" width="800" alt="Emergency and AI Safety">
+  
+  <h3>Safety & Tracking</h3>
+  <img src="Screenshots/Travel-safety.png" width="800" alt="Travel Safety and Live Tracking">
+  
+  <h3>Mentorship & Community</h3>
+  <img src="Screenshots/Mentors.png" width="800" alt="Mentorship Platform">
+  <br>
+  <img src="Screenshots/Community.png" width="800" alt="Community Hub">
+  
+  <h3>Resources & Support</h3>
+  <img src="Screenshots/Resources.png" width="800" alt="Nearby Help and Accommodation">
+  <br>
+  <img src="Screenshots/Ai-assistant.png" width="800" alt="AI Assistant">
+</div>
+
+---
+
 ## 🛠 Tech Stack
 
 - **Frontend**: [React](https://react.dev/) + [Vite](https://vitejs.dev/) + [TypeScript](https://www.typescriptlang.org/)
